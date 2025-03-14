@@ -1,0 +1,5 @@
+/fintech_env
+__pycache__/
+/*.log
+/*.csv
+/*.db

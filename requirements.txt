@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 pandas
@@ -5,3 +6,12 @@ scikit-learn
 tensorflow
 kafka-python
 fbprophet
+=======
+fastapi
+uvicorn
+pandas
+scikit-learn
+tensorflow
+kafka-python
+fbprophet
+>>>>>>> 7474239b2c108329df1ada01d6136c9f22de1b27
